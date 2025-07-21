@@ -1,0 +1,8 @@
+/* Personalización de estilos */
+header {
+  background-image: linear-gradient(to right, #007bff, #0056b3);
+}
+
+footer {
+  font-size: 0.9rem;
+}
